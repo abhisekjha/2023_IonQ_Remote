@@ -1,4 +1,5 @@
-# 2023_planning_ionq
+### 2023_planning_ionq
+
 IonQ's repository for iQuHACK 2023 (private planning)
 
 
